@@ -31,7 +31,7 @@ module.exports = function ZerkHue(dispatch) {
     command.message(`Zerk skript: ${enabled}`);
   });
 
-  dispatch.hook('S_LOGIN', 10, DEFAULT_HOOK_SETTINGS, event => {
+  dispatch.hook('S_LOGIN', 13, DEFAULT_HOOK_SETTINGS, event => {
     gameId = event.gameId;
     model = event.templateId;
     job = (model - 10101) % 100;

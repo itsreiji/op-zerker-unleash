@@ -1,15 +1,16 @@
 {
-	"files": {
-		"index.js": "7bdfdd7f10798cdc7bbad50d27e39857aea2811e3973488d634a95987eb4952f",
-		"module.json": "2967923042ee621b7dac7441794436ddfe2034ed28f387663653dbc14917d6aa"
-	},
-	"defs": {
-		"C_PLAYER_LOCATION": 5,
-		"C_START_SKILL": 7,
-		"S_ABNORMALITY_BEGIN": 3,
-		"S_ACTION_END": 5,
-		"S_ACTION_STAGE": 8,
-		"S_LOGIN": 13,
-		"S_PLAYER_STAT_UPDATE": 10
-	}
+    "files": {
+        "README.md": "d4ddc29a870f3a707bbb887fe85da2b6de3c114e4c840fd6991082524a8b7cb4",
+        "index.js": "bf1c420429889b8d74fb5306382592feac59310b0721c918eb26ad4362f0638f",
+        "module.json": "346cd37c04f3e7afc2eb4f042443f0db3f1f474bd14b8d2ec28fd67a1d0fb4c9"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "C_START_SKILL": 7,
+        "S_ABNORMALITY_BEGIN": 3,
+        "S_ACTION_END": 5,
+        "S_ACTION_STAGE": 9,
+        "S_LOGIN": 13,
+        "S_PLAYER_STAT_UPDATE": 10
+    }
 }
